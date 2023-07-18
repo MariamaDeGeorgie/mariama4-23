@@ -1,1 +1,38 @@
-/*style css*/
+  /*p {
+	color:red; 
+} */
+
+
+.text1{color:red;
+background-color:yellow;
+}
+
+.text2{color:blue;
+background-color:lightblue;
+}
+	.text3{color:green;
+	background-color:red;
+	}
+#active1 {
+color:black;
+	}
+#active2{
+color:black;	
+	}
+	a {
+		text-decoration:none;
+			}
+.nav-a{
+	font-size: 22px;
+	color:#3D58A6; 
+}	
+.active{
+	color:#EE4036;
+}		
+.article-text {
+	color:red;
+}
+.span1 {
+	color:blue;
+	font-size:30px;
+}
